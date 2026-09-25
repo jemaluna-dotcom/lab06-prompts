@@ -102,21 +102,22 @@ El prompt vago no da resultado porque falta información: la IA no sabe qué res
 > Hazme código para un login.
 
 **Respuesta obtenida:**
+
 ![alt text](image-2.png)
 
 ### Versión profesional
 > Actúa como desarrollador Java. Crea un ejemplo de login para una aplicación de escritorio utilizando Swing. El usuario debe ingresar correo y contraseña. Explica brevemente el funcionamiento y presenta el código organizado por clases.
 
 **Respuesta obtenida:**
-![alt text](image-3.png)
-![alt text](image-4.png)
+
+![alt text](image-3.png) ![alt text](image-4.png)
 
 ### Iteración — Mejora del resultado
 > Mejora el código anterior con estas restricciones: no uses librerías externas, valida que el correo contenga @ y que la contraseña tenga al menos 8 caracteres, y muestra los mensajes con JOptionPane.
 
 **Respuesta obtenida:**
-![alt text](image-5.png)
-![alt text](image-6.png)
+
+![alt text](image-5.png) ![alt text](image-6.png)
 
 ### Evaluación del resultado
 | Qué revisar | Cumple (Sí / No) |
